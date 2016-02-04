@@ -81,7 +81,6 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\INB302-IT-Capstone-Unit\WD
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\INB302-IT-Capstone-Unit\WDGS\WDGS\WDGS.Droid\obj\Debug\res\drawable-xxxhdpi\logo.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\INB302-IT-Capstone-Unit\WDGS\WDGS\WDGS.Droid\obj\Debug\R.cs.flag
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\INB302-IT-Capstone-Unit\WDGS\WDGS\WDGS.Droid\obj\Debug\uploadflags.txt
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\obj\Debug\WDGS.Droid.csprojResolveAssemblyReference.cache
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\WDGS.Droid.dll.config
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\WDGS.Droid.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\WDGS.Droid.pdb
@@ -89,8 +88,6 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\com.inb302wdgs-Signed.apk
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\ExifLib.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\FormsViewGroup.dll
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Geolocator.Plugin.Abstractions.dll
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Geolocator.Plugin.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\SQLite-net.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\SQLitePCL.raw.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\WDGS.dll
@@ -116,12 +113,6 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\XLabs.Serialization.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\WDGS.pdb
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\SQLite-net.dll.mdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Geolocator.Plugin.pdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Geolocator.Plugin.xml
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Geolocator.Plugin.dll.mdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Geolocator.Plugin.Abstractions.pdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Geolocator.Plugin.Abstractions.xml
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Geolocator.Plugin.Abstractions.dll.mdb
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Xamarin.Forms.Core.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Xamarin.Forms.Maps.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
@@ -132,6 +123,7 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\XLabs.Platform.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\XLabs.Platform.Droid.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\bin\Debug\XLabs.Serialization.xml
+D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\obj\Debug\WDGS.Droid.csprojResolveAssemblyReference.cache
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\obj\Debug\WDGS.Droid.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\obj\Debug\WDGS.Droid.pdb
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.Droid\obj\Debug\android\bin\com.inb302wdgs.apk

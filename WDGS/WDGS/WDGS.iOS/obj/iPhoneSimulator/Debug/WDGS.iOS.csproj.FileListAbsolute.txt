@@ -2,8 +2,8 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\WDGSiOS.exe
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\WDGSiOS.pdb
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Geolocator.Plugin.Abstractions.dll
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Geolocator.Plugin.dll
+D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\SQLitePCL.raw.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\WDGS.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
@@ -19,8 +19,7 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.iOS.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\XLabs.Serialization.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\WDGS.pdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Geolocator.Plugin.xml
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Geolocator.Plugin.Abstractions.xml
+D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll.mdb
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
@@ -45,15 +44,14 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-40@2x.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-40@3x.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small@3x.png
+D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\homeIcon.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-40.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\logo.png
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\QutLogo.png
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\QUTLogoHeader.png
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\QutLogoWhite.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\background@2x.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\cameraIcon.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\questionIcon.png
+D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\QutLogoHeader.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\taskIcon.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\triviaIcon.png
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\optimized\background@3x.png
@@ -76,5 +74,3 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\WDGS.iOS.csprojResolveAssemblyReference.cache
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\WDGSiOS.exe
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\WDGSiOS.pdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\obj\iPhoneSimulator\Debug\WDGSiOS.exe.mdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS.iOS\bin\iPhoneSimulator\Debug\WDGSiOS.exe.mdb

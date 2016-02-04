@@ -235,28 +235,31 @@
             <remarks>To be added.</remarks>
         </member>
         <member name="T:Xamarin.Forms.Xaml.XamlCompilationAttribute">
-            <summary>To be added.</summary>
-            <remarks>To be added.</remarks>
+            <summary>Attribute that controls whether XAML will be compiled at build time or run time.</summary>
+            <remarks>By default, XAML compilation at build time is turned off.</remarks>
         </member>
         <member name="C:Xamarin.Forms.Xaml.XamlCompilationAttribute(Xamarin.Forms.Xaml.XamlCompilationOptions)">
-            <param name="xamlCompilationOptions">To be added.</param>
-            <summary>To be added.</summary>
+            <param name="xamlCompilationOptions">A value that tells whether to compile XAML at run time or compile time.</param>
+            <summary>Creates a new <see cref="T:Xamarin.Forms.Xaml.XamlCompilationAttribute" /> with the specified value.</summary>
             <remarks>To be added.</remarks>
         </member>
         <member name="P:Xamarin.Forms.Xaml.XamlCompilationAttribute.XamlCompilationOptions">
-            <summary>To be added.</summary>
-            <value>To be added.</value>
-            <remarks>To be added.</remarks>
+            <summary>Gets or sets a value that tells whether to compile XAML at run time or compile time.</summary>
+            <value>A value that tells whether to compile XAML at run time or compile time.</value>
+            <remarks>By default, XAML compilation at build time is turned off.</remarks>
         </member>
         <member name="T:Xamarin.Forms.Xaml.XamlCompilationOptions">
-            <summary>To be added.</summary>
-            <remarks>To be added.</remarks>
+            <summary>Enumerates values that control when XAML is compiled into IL.</summary>
+            <remarks>
+                <para>Enabling build-time compilation by specifying the <c>Compile</c> option checks the XAML at build time, reduces loading time, and produces a smaller assembly or application.</para>
+                <para>By default, XAML compilation at build time is turned off.</para>
+            </remarks>
         </member>
         <member name="F:Xamarin.Forms.Xaml.XamlCompilationOptions.Compile">
-            <summary>To be added.</summary>
+            <summary>Compile the XAML for the class or project when the application is built.</summary>
         </member>
         <member name="F:Xamarin.Forms.Xaml.XamlCompilationOptions.Skip">
-            <summary>To be added.</summary>
+            <summary>Compile the XAML for the class or project when the application is run on the device.</summary>
         </member>
         <member name="T:Xamarin.Forms.Xaml.XamlParseException">
             <summary>Exception that is raised when the XAML parser encounters a XAML error.</summary>

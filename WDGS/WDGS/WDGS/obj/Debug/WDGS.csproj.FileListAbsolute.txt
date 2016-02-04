@@ -36,8 +36,6 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\WDGS.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\WDGS.pdb
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\ExifLib.dll
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Geolocator.Plugin.Abstractions.dll
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Geolocator.Plugin.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\PCLStorage.Abstractions.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\PCLStorage.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\SQLite-net.dll
@@ -53,10 +51,6 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\XLabs.Serialization.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\PCLStorage.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\PCLStorage.Abstractions.xml
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Geolocator.Plugin.pdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Geolocator.Plugin.xml
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Geolocator.Plugin.Abstractions.pdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Geolocator.Plugin.Abstractions.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Xamarin.Forms.Core.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Xamarin.Forms.Maps.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\Xamarin.Forms.Xaml.xml
@@ -67,4 +61,3 @@ D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\bin\Debug\XLabs.Serialization.xml
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\obj\Debug\WDGS.dll
 D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\obj\Debug\WDGS.pdb
-D:\Users\Dawn\Uni Stuff\INB302\XamarinProjects\Github\WalkDownGeorgeStreet\WDGS\WDGS\WDGS\obj\Debug\WDGS.csprojResolveAssemblyReference.cache

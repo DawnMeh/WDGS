@@ -194,7 +194,7 @@ namespace WDGS
             };
             ExtendedLabel link4b = new ExtendedLabel
             {
-                Text = "• https://www.qldbar.asn.au/index.php/about-the-bar/what-is-the-bar3",
+                Text = "• https://www.qldbar.asn.au/#/about-the-bar",
                 BackgroundColor = Color.Black,
                 TextColor = App.linkTextColour,
                 FontSize = Device.GetNamedSize(NamedSize.Default, typeof(Label)), 
@@ -214,7 +214,7 @@ namespace WDGS
             };
             ExtendedLabel link5a = new ExtendedLabel
             {
-                Text = "• http://www.hca.gov.au",
+                Text = "• http://www.hcourt.gov.au/",
                 BackgroundColor = Color.Black,
                 TextColor = App.linkTextColour,
                 FontSize = Device.GetNamedSize(NamedSize.Default, typeof(Label)), 
@@ -400,11 +400,11 @@ namespace WDGS
             });
             link4b.GestureRecognizers.Add(new TapGestureRecognizer
             {
-                Command = new Command(() => Device.OpenUri(new Uri("https://www.qldbar.asn.au/index.php/about-the-bar/what-is-the-bar3")))
+                Command = new Command(() => Device.OpenUri(new Uri("https://www.qldbar.asn.au/#/about-the-bar")))
             });
             link5a.GestureRecognizers.Add(new TapGestureRecognizer
             {
-                Command = new Command(() => Device.OpenUri(new Uri("www.hca.gov.au")))
+                Command = new Command(() => Device.OpenUri(new Uri("http://www.hcourt.gov.au/")))
             });
             link5b.GestureRecognizers.Add(new TapGestureRecognizer
             {
